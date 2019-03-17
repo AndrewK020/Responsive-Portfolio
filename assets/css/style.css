@@ -251,7 +251,9 @@ input[type=submit] {
     max-width: 620px;
   }
   .work {
-    margin-left: 80px;
+    
+    width: 90%;
+    height: 80%;
   }
   .auth-image {
     width: 90%;
