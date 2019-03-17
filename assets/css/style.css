@@ -236,6 +236,7 @@ input[type=submit] {
 
 @media screen and (max-width: 640px) {
   #main-container {
+    padding-top: 0;
     margin-left: 2%;
   }
   .main-section {
@@ -246,7 +247,7 @@ input[type=submit] {
     float: left;
   }
   #masthead {
-    
+    position: static;
     max-width: 620px;
   }
   .work {
