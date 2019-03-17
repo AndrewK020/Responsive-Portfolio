@@ -254,8 +254,8 @@ input[type=submit] {
     margin-left: 80px;
   }
   .auth-image {
-    width: 425px;
-    height: 300px;
+    width: 90%;
+    height: 80%;
 
   }
   #logo {
